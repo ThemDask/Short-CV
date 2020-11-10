@@ -13,7 +13,6 @@ email: themosd@gmail.com
 linkedin: [Themistoklis Daskalopoulos](https://www.linkedin.com/in/themistoklis-daskalopoulos-361579172/)
 
 
-### 
 
 
 ## Education
