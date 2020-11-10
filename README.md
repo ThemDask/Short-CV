@@ -31,8 +31,8 @@ linkedin: [Themistoklis Daskalopoulos](https://www.linkedin.com/in/themistoklis-
 
 ## Experience
 
-- creator and moderator of https://www.orl-vertigoclinic.gr/
-- CyberSecurity training at [neurosoft](https://neurosoft.gr/)
+- creator and moderator of [orl-vertigoclinic](https://www.orl-vertigoclinic.gr)
+- CyberSecurity training at [neurosoft](https://neurosoft.gr)
 - digitazion of Mrs. Grigorakou' archive, research Historian
 
 ## foreign languages
