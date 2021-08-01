@@ -18,7 +18,8 @@ linkedin: [Themistoklis Daskalopoulos](https://www.linkedin.com/in/themistoklis-
 ## Education
 
 2004 - 2016: Erasmeios Greek German School
-
+             -gradutated with commendation
+             
 2016 - present: Ionian University - department of Computer Science
 
 
@@ -26,14 +27,16 @@ linkedin: [Themistoklis Daskalopoulos](https://www.linkedin.com/in/themistoklis-
 
 - Front-end web design 
 - experience with Unix systems, Linux Kali
-- programming languages (C, C++, Java, Python)
-- Web languages (HTML5, CSS)
+- programming languages (C/C++, Java, Python)
+- Web languages (HTML5, CSS, PHP, SQL )
 
 ## Experience
 
 - creator and moderator of [orl-vertigoclinic](https://www.orl-vertigoclinic.gr)
 - CyberSecurity training at [neurosoft](https://neurosoft.gr)
+
 - digitazion of Mrs. Grigorakou' archive, research Historian
+
 
 ## foreign languages
 
